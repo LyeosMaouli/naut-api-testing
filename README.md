@@ -54,7 +54,7 @@ A production-ready, single-user web application that integrates with Brevo's API
 
 1. **Navigate to your repository:**
    ```bash
-   cd lm-api-testing
+   cd naut-api-testing
    cd backend
    ```
 
@@ -102,7 +102,7 @@ A production-ready, single-user web application that integrates with Brevo's API
 
 1. **In a new terminal, navigate to frontend:**
    ```bash
-   cd lm-api-testing/frontend
+   cd naut-api-testing/frontend
    ```
 
 2. **Install dependencies:**
@@ -120,7 +120,7 @@ A production-ready, single-user web application that integrates with Brevo's API
 ## 📁 Project Structure
 
 ```
-lm-api-testing/
+naut-api-testing/
 ├── .gitignore
 ├── LICENSE
 ├── README.md
