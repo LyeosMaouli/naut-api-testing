@@ -24,7 +24,7 @@ This document provides a comprehensive reference of all useful commands for deve
 ```bash
 # Clone repository
 git clone <repository-url>
-cd lm-api-testing
+cd naut-api-testing
 
 # Verify Python version
 python --version  # Should be 3.8+
